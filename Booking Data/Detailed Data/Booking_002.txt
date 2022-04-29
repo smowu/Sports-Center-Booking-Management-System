@@ -1,0 +1,8 @@
+ Reference No.            : 20220421002B
+ Customer Name            : Dur
+ Customer IC              : 24124521
+ Booking Date (DD/MM/YYYY): Thu 21/04/2022
+ Time In                  : 08:00AM
+ Time Out                 : 09:00AM
+ ---------------------------
+ Selected Court           : A         

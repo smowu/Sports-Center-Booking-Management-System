@@ -1,0 +1,8 @@
+ Reference No.            : 20220525003B
+ Customer Name            : DURRANI AFIQ BIN SAIDIN
+ Customer IC              : 990509145655
+ Booking Date (DD/MM/YYYY): Wed 25/05/2022
+ Time In                  : 11:00AM
+ Time Out                 : 12:00PM
+ ---------------------------
+ Selected Court           : A B       

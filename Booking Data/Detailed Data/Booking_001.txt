@@ -1,0 +1,8 @@
+ Reference No.            : 20210630001A
+ Customer Name            : sdfgsdg
+ Customer IC              : 4364567
+ Booking Date (DD/MM/YYYY): Wed 30/06/2021
+ Time In                  : 01:00PM
+ Time Out                 : 02:00PM
+ ---------------------------
+ Selected Court           : H I J K L 
